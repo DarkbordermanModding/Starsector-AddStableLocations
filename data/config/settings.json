@@ -1,0 +1,16 @@
+{
+    "CreateStableLocations": {
+        "AllowStar": true,
+        "AllowBlackHole": true,
+        "MaxStableLocationCount": 3,
+        "RequireStoryPoint": false,
+        "RequireStoryPointAmount": 1,
+        "RequiredResources": {
+            "alpha_core": 1,
+            "heavy_machinery": 200
+        },
+        "ConsumedResources": {
+            "fuel": 500
+        }
+    }
+}

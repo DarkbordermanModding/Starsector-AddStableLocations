@@ -1,0 +1,10 @@
+{
+    "id": "darkborderman.addstablelocations",
+    "name": "Add Stable Locations",
+    "author": "Darkborderman",
+    "version": "0.0.0",
+    "description": "Make most character's skills configurable in Starsector.",
+    "gameVersion": "0.96a-RC10",
+    "jars": ["jars/addstablelocations.jar"],
+    "modPlugin": "mod.addstablelocations.AddStableLocationModPlugin"
+}
